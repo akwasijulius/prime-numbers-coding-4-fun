@@ -1,6 +1,7 @@
 # Digital and Engineering – RBS – Coding Assignment
 
-This is my solution to the RBS – Coding Assignment, which requires a RESTful service that calculates and returns all the prime numbers up to an including a number provided
+This is my solution to the RBS – Coding Assignment, which requires a RESTful service that calculates and returns all the prime numbers up to an including a number provided.
+
 Example
 
 The REST call should look like  http://your.host.com/primes/10  and should return JSON content:
